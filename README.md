@@ -10,7 +10,7 @@ Welcome to the official web application repository for **Sadiq Engineering Servi
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 **SES-WEB** serves as the primary digital presence for Sadiq Engineering Services. It delivers information regarding engineering solutions, service portfolios, client engagement, and project updates.
 
@@ -20,7 +20,7 @@ Welcome to the official web application repository for **Sadiq Engineering Servi
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Framework/Library**: [React](https://react.dev/)
 * **Build Tool**: [Vite](https://vitejs.js.org/)
@@ -30,7 +30,7 @@ Welcome to the official web application repository for **Sadiq Engineering Servi
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 SES-WEB/
